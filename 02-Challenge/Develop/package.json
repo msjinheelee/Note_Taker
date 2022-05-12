@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kara-krzystan/note-taker.git"
+    "url": "git+https://github.com/msjinheelee/Note_taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/kara-krzystan/note-taker/issues"
+    "url": "https://github.com/msjinheelee/Note_Taker/issues"
   },
-  "homepage": "https://github.com/kara-krzystan/note-taker#readme"
+  "homepage": "https://github.com/msjinheelee/Note_Taker#readme"
 }
